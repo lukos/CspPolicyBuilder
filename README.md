@@ -43,3 +43,7 @@ Note that this example uses the "report only" setting which tells the browser to
 Reporting Back to Base
 ----------------------
 A very useful feature of CSP is to get the browsers to report back to a specified URL with any CSP failures. This might highlight whether you site is being attacked. To do this, set the value of ReportingUrl to a URL that will be POST'd to with some JSON in the format as found in the code comments.
+
+Contributing
+------------
+Please feel free to add Pull Requests for any bugs you have fixed or if you feel like adding a project and unit tests etc. You can contact me via my blog at lukieb.blogspot.co.uk
